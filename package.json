@@ -1,0 +1,11 @@
+{
+  "name": "socketNodeFileWrite",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Wietse Neven",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0",
+    "socket.io": "^2.2.0"
+  }
+}
